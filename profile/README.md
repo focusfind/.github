@@ -1,4 +1,4 @@
-# SpotMe
+# SpotFinder
 A web app in which users can upload and rate the best study spots on campus.
 
 
